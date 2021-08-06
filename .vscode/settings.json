@@ -1,0 +1,24 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "askForPassword": true,
+      "driver": "PostgreSQL",
+      "name": "postgres",
+      "database": "rails_watch_list_production",
+      "username": "rails_watch_list"
+    },
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "askForPassword": true,
+      "driver": "PostgreSQL",
+      "name": "postgres",
+      "database": "rails_watch_list_production",
+      "username": "rails_watch_list"
+    }
+  ]
+}
